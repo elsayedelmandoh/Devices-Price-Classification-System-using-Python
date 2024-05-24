@@ -1,6 +1,6 @@
-# Devices Price Classification System using Python and Spring Boot
+# Devices Price Classification System using Python
 
-This project focuses on building a Device Price Classification System using Python for machine learning and Spring Boot for backend services. The system consists of two main components:
+This project focuses on building a Device Price Classification System using Python for machine learning. The system consists of two main components:
 
 1. **Python Project**: Implements machine learning algorithms to predict device prices based on their characteristics.
 
