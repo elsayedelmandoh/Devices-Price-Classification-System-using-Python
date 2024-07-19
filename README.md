@@ -44,10 +44,10 @@ Perform predictions for 10 devices from the test dataset.
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback.
+Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. 
 
 ## Author
 
-This repository is maintained by Elsayed Elmandoh, an AI Engineer passionate about deep learning and artificial intelligence. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter\X](https://x.com/aang0007) for updates and discussions related to deep neural networks and artificial intelligence.
+This repository is maintained by Elsayed Elmandoh, an AI Engineer. You can connect with Elsayed on [LinkedIn and Twitter/X](https://linktr.ee/elsayedelmandoh) for updates and discussions related to Machine learning, deep learning and NLP.
 
-Happy coding and machine learning!
+Happy coding!
