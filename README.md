@@ -1,6 +1,8 @@
 # Devices Price Classification System using Python
 
-This project focuses on building a Device Price Classification System using Python for machine learning. The system consists of two main components:
+Developed a Devices Price Classification System utilizing a pipeline that incorporates StandardScaler, SelectFromModel, and RandomForestClassifier, achieving an accuracy of approximately 93% in predicting device prices.
+
+The system consists of two main components:
 
 1. **Python Project**: Implements machine learning algorithms to predict device prices based on their characteristics.
 
